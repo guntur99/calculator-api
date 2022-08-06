@@ -2,12 +2,12 @@
 Live Calculator API(Temporary) => https://event.suratdigital.id/api/operations
 
 # Operations
-1. (+)
-2. (-)
-3. (/)
-4. (^)
+1. ( + )
+2. ( - )
+3. ( / )
+4. ( ^ )
 5. SWAP
-6. (*)
+6. ( * )
 
 # Set Body Request
 
